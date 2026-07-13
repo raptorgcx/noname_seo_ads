@@ -1,0 +1,10 @@
+# деньги и PII не коммитим
+reports/
+data/
+.secrets/
+
+# мусор
+*.pyc
+__pycache__/
+.DS_Store
+Thumbs.db
