@@ -46,7 +46,11 @@ noname_seo_ads/
       2026-07-14 (commit 5f0eca2 в noname_site)
 - [x] Робот-аккаунт создан (2026-07-14, креды в .secrets/); биллинг Ads = личная карта,
       бюджет ~20–25 $/день на тест; юрлицо BUCHARESTCLOUDS SRL (CUI 49299704, ANAF)
-- [ ] Каталог: +20 заведений в copy.yaml (начать с Zaitoone/HiroBay/Mezeya/Habibi)
+- [x] Каталог, партия 1 (2026-07-14): +5 заведений — Zaitoone, HiroBay, Mezeya,
+      Habibi By Ahmad, Restaurant Bar Influence → 33 венью / 102 страницы. Al Wady
+      (3.7★) пропущен сознательно: хаб обещает «только 4.0+». Осталось ~15 сидячих
+- [ ] Каталог: партии 2–4 (по 5–7 заведений: Bemolle, Tress→нет (3.9), UBUD, Kanz,
+      Narco Burgers, Amoom, Caffe Republic, NYO, Komodo ×2, Arc, Mombu, Cafe Nescafe…)
 - [ ] Бейзлайн GSC ~2026-07-18/20
 - [ ] Владелец: GBP-доступ, биллинг Ads (RON), IG-админ, ок на программу отзывов —
       список в `strategy.md` §4
