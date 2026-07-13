@@ -21,6 +21,12 @@ Lighthouse (статик на VPS — априори быстрый, замер�
 
 ## Правки (по приоритету)
 
+> **Статус 2026-07-14: P0 и оба P1 СДЕЛАНЫ** (noname_site commit 5f0eca2, автодеплой):
+> consent после «Принять» даёт granted и для ad_* (analytics.js?v=5); x-default добавлен
+> на 4 главных; JSON-LD дополнен geo/hasMenu/priceRange. Индекс 077190 оказался НЕ
+> ошибкой — Google сам держит его в карточке NO NAME, оставлен для NAP-консистентности.
+> Каталог получит analytics.js v=5 при следующей регенерации (реклама туда не ведёт).
+
 ### P0 — consent-баннер блокирует будущий Google Ads ⚠️
 `analytics.js`: после «Принять» GA4 грузится с `ad_storage/ad_user_data/
 ad_personalization: denied` **навсегда** — grant-пути нет (строки 41–44). Аналитике не

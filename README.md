@@ -42,7 +42,10 @@ noname_seo_ads/
 - [x] Он-пейдж аудит сайта + каталога → `seo/onpage-audit.md` (2026-07-13; вердикт:
       сайт в форме, 3 точечные правки, из них P0 — consent блокирует будущий Ads-трекинг)
 - [x] Полная стратегия органика+платный → `strategy.md` (2026-07-13)
-- [ ] Handoff в noname_site: consent-фикс (P0), x-default, JSON-LD
+- [x] Handoff в noname_site: consent-фикс (P0), x-default, JSON-LD — задеплоено
+      2026-07-14 (commit 5f0eca2 в noname_site)
+- [x] Робот-аккаунт создан (2026-07-14, креды в .secrets/); биллинг Ads = личная карта,
+      бюджет ~20–25 $/день на тест; юрлицо BUCHARESTCLOUDS SRL (CUI 49299704, ANAF)
 - [ ] Каталог: +20 заведений в copy.yaml (начать с Zaitoone/HiroBay/Mezeya/Habibi)
 - [ ] Бейзлайн GSC ~2026-07-18/20
 - [ ] Владелец: GBP-доступ, биллинг Ads (RON), IG-админ, ок на программу отзывов —
