@@ -1,0 +1,30 @@
+{\rtf1\ansi\deff0
+{\fonttbl{\f0 Arial;}}
+\f0\fs28\b NoName Ads Automation — Internal Tool Documentation\b0\fs20\par
+\par
+\b Company:\b0  BUCHARESTCLOUDS S.R.L. (CUI 49299704), Bucharest, Romania\par
+\b Website:\b0  https://nonamelounge.ro\par
+\b Google Ads MCC:\b0  489-661-0695 \line \b Managed client account:\b0  799-748-9829 (our own, single account)\par
+\b API contact:\b0  noname.seo.bot@gmail.com\par
+\par
+\fs24\b 1. Overview\b0\fs20\par
+NoName Ads Automation is a set of internal command-line scripts used exclusively by the business owner's automation account to manage the company's own single Google Ads account. The company operates a hookah lounge ("NO NAME Lounge") in Bucharest and advertises its own venue website, nonamelounge.ro. There is no external audience: no clients, no resale, no SaaS, no user interface. The scripts run on the owner's workstation.\par
+\par
+\fs24\b 2. Technology\b0\fs20\par
+Python 3.12 with the official google-ads-python client library. Authentication: OAuth 2.0 (installed-application flow) under the company's automation Google account; developer token issued to our own manager account 489-661-0695.\par
+\par
+\fs24\b 3. Functionality\b0\fs20\par
+- Create and update Search campaigns, ad groups, responsive search ads and keywords from version-controlled configuration files;\par
+- Negative keyword hygiene: read search terms reports, append irrelevant terms to shared negative lists;\par
+- Bid and budget adjustments within owner-approved limits;\par
+- Reporting: campaign/ad group/search term performance downloaded and joined with our GA4 export for cost-per-booking analysis.\par
+\par
+\fs24\b 4. Data flow and access\b0\fs20\par
+Data is read from and written to our own account only. Reports are stored locally in a private repository. No third-party data, no data sharing, no remarketing lists from external sources. Access to the scripts: business owner (internal users only).\par
+\par
+\fs24\b 5. Expected volume\b0\fs20\par
+Single account; typically a few dozen mutate operations and a few report downloads per day; under 1,000 operations/day in all cases.\par
+\par
+\fs24\b 6. Compliance\b0\fs20\par
+The tool is used only for our own advertising (Required Minimum Functionality is not applicable to internal single-account tooling). We follow Google Ads API Terms and policies; the API contact mailbox is monitored.\par
+}
