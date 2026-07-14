@@ -6,17 +6,22 @@
 ## Сводка статусов (2026-07-14)
 
 - [x] Шаг 0: робот `noname.seo.bot@gmail.com` создан, креды в `.secrets/google-robot.env`
-- [ ] Шаг 1: GBP — владелец выясняет 2026-07-15 (снаружи claim-статус не проверить:
-      Google Maps/SERP за consent/JS-стеной — проверено). Как проверить за 10 сек:
-      карточка NO NAME в приложении карт → есть «Revendică această companie» = профиль ничей
+- [x] Шаг 1: GBP — **ВЛАДЕЛЕЦ ПОДТВЕРДИЛ ПРАВА 2026-07-14** («я стал владельцем на
+      google maps своего заведения»). Осталось: добавить робота Менеджером
+      (business.google.com → Люди и доступ → noname.seo.bot@gmail.com → Manager)
+      и пройти чек-лист оптимизации карточки (категория Hookah bar, сайт → /gm,
+      меню → /meniu-qr/, фото, описание, атрибуты)
 - [x] Шаг 2 СДЕЛАН (2026-07-14 вечер, под диктовку): кабинет **NoName Hookah Lounge
       799-748-9829** (RON, Bucharest, Expert Mode, карта Visa ****1758, промо
       «потрать 1500 RON до 12.09 → +1500 RON»); MCC **NoName Seo Manager 489-661-0695**,
       кабинет привязан; API Center: developer token получен (Test), заявка на Basic
       **ОТПРАВЛЕНА 2026-07-14** (Search; Campaign Creation/Management, Reporting,
       Keyword Planning; internal only; RTF-док приложен; Cloud-проект — «My First
-      Project» робота). Первичное ревью до 5 раб. дней, ответ на raptorgcx@gmail.com.
-      Brand verification пропущена сознательно (не блокер). Все ID/токены —
+      Project» робота). Ответ на raptorgcx@gmail.com. Brand verification в итоге ПРОЙДЕНА и опубликована
+      (2026-07-14, после 3 итераций) → заявка в ускоренной очереди (часы–день вместо
+      5 раб. дней). API Center статус «на рассмотрении» не показывает — это норма,
+      подтверждение = письмо; уровень сменится на «Базовый» при одобрении.
+      Все ID/токены —
       .secrets/google-ads.env
 - [ ] Шаг 3: отзывы — жду «да». Ссылка уже готова (place_id из датасета):
       `https://search.google.com/local/writereview?placeid=ChIJm2--ylMDskARSqH4_tkbp3M`
