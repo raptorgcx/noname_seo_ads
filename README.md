@@ -49,8 +49,14 @@ noname_seo_ads/
 - [x] Каталог, партия 1 (2026-07-14): +5 заведений — Zaitoone, HiroBay, Mezeya,
       Habibi By Ahmad, Restaurant Bar Influence → 33 венью / 102 страницы. Al Wady
       (3.7★) пропущен сознательно: хаб обещает «только 4.0+». Осталось ~15 сидячих
-- [ ] Каталог: партии 2–4 (по 5–7 заведений: Bemolle, Tress→нет (3.9), UBUD, Kanz,
-      Narco Burgers, Amoom, Caffe Republic, NYO, Komodo ×2, Arc, Mombu, Cafe Nescafe…)
+- [x] Каталог, партия 2 (2026-07-14): +7 — Bemolle (Villacrosse!), UBUD, Kanz, Narco
+      Burgers, Amoom, Caffe Republic Băneasa, NYO → **40 венью / 123 страницы**,
+      IndexNow 123 URL HTTP 200. ⚠️ Приоритет владельца: каталог — ФОНОМ, фокус — сайт
+- [x] Сайт, заход 2 (2026-07-14): Т6 терраса-копи (section__hint в «Атмосфере», 4 языка),
+      JSON-LD BarOrPub+geo/hasMenu/priceRange на всех 4 главных (был RO-only)
+- [ ] Каталог фоном: партия 3 — хвост сидячих ≥4.0 (Komodo ×2, Arc Food Lounge, Mombu,
+      Trio уже есть… осталось ~5) + решить судьбу <4.0 (Tress 3.9, Cafe Nescafe 3.8,
+      Al Wady 3.7 — не листим, политика 4.0+)
 - [ ] Бейзлайн GSC ~2026-07-18/20
 - [ ] Владелец: GBP-доступ, биллинг Ads (RON), IG-админ, ок на программу отзывов —
       список в `strategy.md` §4

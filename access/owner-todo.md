@@ -21,36 +21,34 @@
       правит), так что режим Full (strict) включаешь ты в дашборде, либо дай токен
       с правами Zone.Settings Edit
 
-## КЛИК-СКРИПТ ПО GOOGLE (2026-07-14, после создания робота)
+## КЛИК-СКРИПТ ПО GOOGLE (обновлён 2026-07-14 вечером)
 
-Важная механика: из консоли агент в веб-интерфейс Google войти не может (нужен живой
-браузер) — поэтому разовые клики делает владелец ПОД РОБОТОМ, дальше всё ведёт агент.
-Залогиниться: окно инкогнито → accounts.google.com → noname.seo.bot@gmail.com.
+Контекст (вычитан из реп): GA4 (G-R66FML3FMW), Clarity (xlidq4bp7s) и Search Console
+УЖЕ существуют и живые — созданы под аккаунтом владельца (raptorgcx@gmail.com,
+GSC верифицирован HTML-файлом 13.07). Новые property НЕ заводим. Роботу нужны
+только выдачи доступов; единственное новое — кабинет Google Ads.
 
-**Блок 1 — Search Console (5 мин, самое ценное сейчас):**
-1. Под роботом: https://search.google.com/search-console → Add property →
-   тип «URL prefix» → `https://nonamelounge.ro/`.
-2. Способ верификации «HTML file» → скачать файл `googleXXXX.html` → прислать файл
-   (или его имя+содержимое) в чат — деплой на сайт за минуту.
-3. После моего «задеплоил» → нажать Verify. Робот становится полноправным владельцем
-   GSC независимо от старых верификаций.
-Дальше сам агент: sitemap каталога, запросы индексации новых страниц, бейзлайн.
+Механика: агент в веб-UI Google из консоли не заходит (нужен живой браузер) —
+разовые клики за владельцем, дальше ведёт агент.
 
-**Блок 2 — Google Ads (10 мин, вместе в чате):**
-1. Под роботом: https://ads.google.com → Start now → внизу «Switch to Expert Mode»
+**1. GSC — доступ роботу (2 мин, под ТВОИМ аккаунтом):**
+search.google.com/search-console → property nonamelounge.ro → Settings →
+Users and permissions → Add user → `noname.seo.bot@gmail.com` → **Full**.
+
+**2. GA4 — доступ роботу (2 мин, под ТВОИМ аккаунтом):**
+analytics.google.com → Admin → Property access management → «+» →
+`noname.seo.bot@gmail.com` → роль **Editor**.
+
+**3. GBP (как выяснится статус профиля):**
+business.google.com → профиль NO NAME → Люди и доступ → Добавить →
+`noname.seo.bot@gmail.com` → роль **Менеджер**.
+
+**4. Google Ads — единственное, чего нет (10 мин, вместе в чате):**
+1. Под РОБОТОМ: https://ads.google.com → Start now → внизу «Switch to Expert Mode»
    (НЕ идти в мастер «умной кампании»).
 2. Страна RO, часовой пояс Bucharest, валюта **RON** (потом не меняется!).
-3. «Create account without a campaign». Биллинг: данные твоей личной карты.
-4. Дальше кампанию Т1 собирает агент (пошагово продиктует что где нажать, либо
-   через Google Ads Editor/API когда появится dev-token).
-
-**Блок 3 — GA4 (2 мин, под ТВОИМ аккаунтом, где создана property):**
-analytics.google.com → Admin → Property access management → «+» →
-noname.seo.bot@gmail.com → роль **Editor**.
-
-**Блок 4 — GBP (как выяснится статус профиля):**
-business.google.com → профиль NO NAME → Люди и доступ → Добавить →
-noname.seo.bot@gmail.com → роль Менеджер.
+3. «Create account without a campaign». Биллинг: твоя личная карта (решение принято).
+4. Кампанию Т1 дальше собирает агент.
 
 ## Шаг 0. Робот-аккаунт Google (~10 мин) — фундамент для всего
 
