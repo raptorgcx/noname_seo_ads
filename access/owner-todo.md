@@ -16,6 +16,8 @@
       подана. Все ID/токены — .secrets/google-ads.env
 - [ ] Шаг 3: отзывы — жду «да». Ссылка уже готова (place_id из датасета):
       `https://search.google.com/local/writereview?placeid=ChIJm2--ylMDskARSqH4_tkbp3M`
+- [x] GA4: робот получил роль Editor (2026-07-14 вечер, подтверждено владельцем)
+- [x] Clarity: робот добавлен в команду проекта (2026-07-14 вечер, слова владельца)
 - [ ] Шаг 4: Instagram — доступ завтра (слова владельца)
 - [x] Шаг 5.1: юрлицо — **BUCHARESTCLOUDS S.R.L., CUI 49299704, J2023024260409**,
       Șos. Pipera 48A, Sector 1 (сверено с ANAF напрямую; занесено в noname_site/docs/CONTENT.md)
