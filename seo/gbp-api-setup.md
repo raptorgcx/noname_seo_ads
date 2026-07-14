@@ -1,8 +1,9 @@
 # GBP API — программный доступ к карточке
 
-Свежесть: 2026-07-14. Статус: робот = Менеджер профиля (владелец добавил, инвайт принят).
-Правки карточки пока идут «под диктовку»; этот файл — путь к автономии (ответы на
-отзывы, посты, часы — кодом).
+Свежесть: 2026-07-14 (вечер). Статус: робот = Менеджер профиля; карточка
+оптимизирована под диктовку (категория Hookah bar, сайт /gm, меню, брони,
+описание RO+EN, атрибуты); **заявка на API подана, case 9-1215000041861**.
+Этот файл — путь к автономии (ответы на отзывы, посты, часы — кодом).
 
 ## Почему нельзя «просто подключиться»
 
@@ -10,16 +11,16 @@ Business Profile APIs (My Business *) — закрытые: любой Cloud-п�
 **квоту 0** до одобрения заявки. Это та же история, что Basic Access в Ads API,
 только форма другая. Без одобрения все вызовы падают 429 RESOURCE_EXHAUSTED.
 
-## План (когда дойдут руки — не блокер)
+## План
 
-1. **Заявка на доступ**: https://developers.google.com/my-business/content/prereqs
-   → «Request access to the API» (форма). Заполнять от робота
-   (noname.seo.bot@gmail.com), Cloud-проект тот же, что для Ads API
-   («My First Project» робота, номер проекта — в Cloud Console).
-   Черновики ответов: business = BUCHARESTCLOUDS S.R.L. (CUI 49299704), один
-   собственный профиль (NO NAME Lounge, București), use case = управление
-   собственной карточкой: ответы на отзывы, обновление часов/атрибутов, посты.
-   НЕ агентство, НЕ сторонние профили.
+1. **Заявка ПОДАНА 2026-07-14** (вечер, форма через
+   support.google.com/business/contact/api_default → «Application For Basic API
+   Access», от робота). **Case ID: 9-1215000041861.** Ревью ~7–10 раб. дней
+   (их формулировка: high volume of allowlist requests). Проект:
+   **noname-ads-api**, number **768112830575** (тот же, что Ads API + brand
+   verification; номер в .secrets/google-ads.env → GCP_PROJECT_NUMBER).
+   Поданный use case: собственный профиль, 1 локация, ответы на отзывы /
+   часы / атрибуты / посты, internal only.
 2. После одобрения — включить в проекте: My Business Account Management API,
    My Business Business Information API, Business Profile Performance API.
 3. **Новый refresh token** с добавленным scope
