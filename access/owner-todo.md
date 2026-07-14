@@ -6,10 +6,14 @@
 ## Сводка статусов (2026-07-14)
 
 - [x] Шаг 0: робот `noname.seo.bot@gmail.com` создан, креды в `.secrets/google-robot.env`
-- [ ] Шаг 1: GBP — владелец выясняет завтра (снаружи claim-статус не проверить:
-      Google Maps за GDPR-consent-стеной). Владелец: «гугл щас сделаю»
-- [x] Шаг 2: решения приняты — **личная карта**, бюджет **~20–25 $/день, ~неделя на тест**
-      (≈90–115 RON/день). Кабинет заведу, как только робот получит доступы
+- [ ] Шаг 1: GBP — владелец выясняет 2026-07-15 (снаружи claim-статус не проверить:
+      Google Maps/SERP за consent/JS-стеной — проверено). Как проверить за 10 сек:
+      карточка NO NAME в приложении карт → есть «Revendică această companie» = профиль ничей
+- [x] Шаг 2 СДЕЛАН (2026-07-14 вечер, под диктовку): кабинет **NoName Hookah Lounge
+      799-748-9829** (RON, Bucharest, Expert Mode, карта Visa ****1758, промо
+      «потрать 1500 RON до 12.09 → +1500 RON»); MCC **NoName Seo Manager 489-661-0695**,
+      кабинет привязан; API Center: developer token получен (Test), заявка на Basic
+      подана. Все ID/токены — .secrets/google-ads.env
 - [ ] Шаг 3: отзывы — жду «да». Ссылка уже готова (place_id из датасета):
       `https://search.google.com/local/writereview?placeid=ChIJm2--ylMDskARSqH4_tkbp3M`
 - [ ] Шаг 4: Instagram — доступ завтра (слова владельца)
