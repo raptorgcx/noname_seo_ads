@@ -50,10 +50,12 @@
       также у Radu Bosancean и Ruxandra Stancu, частичный у Cristian Gaspar — не
       трогаем, но при случае просить transfer в портфолио владельца. Acces deplin
       достаточен для: IG-связки, правок страницы, рекламы из своего кабинета.
-      Следующее (владелец, продиктовано): (1) Conturi conectate → IG noname.lounge;
-      (2) категория Hookah lounge (Bar второй), сайт → /fb, адрес 2A, часы
-      13:00–01:00, кнопка Rezervă → /fb#rezerva. Потом: своё Business portfolio
-      → ad account RON/Bucharest
+      Страница правится (2026-07-16): категория «Cafenea cu narghilele · Lounge ·
+      Bar» ✓, ссылка nonamelounge.ro/fb ✓, адрес Ficusului 2A / 077190 ✓.
+      Осталось владельцу: кнопка «Rezervă» → /fb#rezerva (на самой странице:
+      под обложкой ••• → Adaugă buton de acţiune), часы 13:00–01:00 явно,
+      interval de prețuri $$, **IG-связка noname.lounge (блокер кабинета)**.
+      Потом: своё Business portfolio → ad account RON/Bucharest
 - [x] Шаг 5.1: юрлицо — **BUCHARESTCLOUDS S.R.L., CUI 49299704, J2023024260409**,
       Șos. Pipera 48A, Sector 1 (сверено с ANAF напрямую; занесено в noname_site/docs/CONTENT.md)
 - [x] Шаг 5.2: индекс 077190 — НЕ ошибка: Google сам держит его в карточке NO NAME,
