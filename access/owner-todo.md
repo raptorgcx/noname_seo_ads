@@ -42,7 +42,12 @@
       на raptorgcx@gmail.com → принять под ЛИЧНЫМ FB → страница появится в
       business.facebook.com (не в обычном FB!). Конечная цель — ПЕРЕДАЧА страницы
       в собственное портфолио владельца (иначе зависимость от подрядчика);
-      компромисс — свой ad account + Full access на страницу (рекламу вести можно)
+      компромисс — свой ad account + Full access на страницу (рекламу вести можно).
+      **2026-07-16 (позже): invite ПРИНЯТ** — страница видна в «Paginile pe care le
+      administrezi» личного FB владельца (Max Koenig), настройки страницы открываются.
+      Следующее: (1) скрин «Accesul la Pagină» — уровень (Control deplin?) и кто ещё
+      в списке (draw.ro); (2) Conturi conectate → привязать IG noname.lounge;
+      (3) детали страницы: категория, сайт → /fb, адрес 2A, часы, кнопка брони
 - [x] Шаг 5.1: юрлицо — **BUCHARESTCLOUDS S.R.L., CUI 49299704, J2023024260409**,
       Șos. Pipera 48A, Sector 1 (сверено с ANAF напрямую; занесено в noname_site/docs/CONTENT.md)
 - [x] Шаг 5.2: индекс 077190 — НЕ ошибка: Google сам держит его в карточке NO NAME,
