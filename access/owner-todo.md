@@ -45,9 +45,15 @@
       компромисс — свой ad account + Full access на страницу (рекламу вести можно).
       **2026-07-16 (позже): invite ПРИНЯТ** — страница видна в «Paginile pe care le
       administrezi» личного FB владельца (Max Koenig), настройки страницы открываются.
-      Следующее: (1) скрин «Accesul la Pagină» — уровень (Control deplin?) и кто ещё
-      в списке (draw.ro); (2) Conturi conectate → привязать IG noname.lounge;
-      (3) детали страницы: категория, сайт → /fb, адрес 2A, часы, кнопка брони
+      **Доступ подтверждён скрином: владелец (Galagan Maxim) = ACCES DEPLIN** ✓.
+      Страница по-прежнему в портфолио draw.ro (ID 445838702254360); полный контроль
+      также у Radu Bosancean и Ruxandra Stancu, частичный у Cristian Gaspar — не
+      трогаем, но при случае просить transfer в портфолио владельца. Acces deplin
+      достаточен для: IG-связки, правок страницы, рекламы из своего кабинета.
+      Следующее (владелец, продиктовано): (1) Conturi conectate → IG noname.lounge;
+      (2) категория Hookah lounge (Bar второй), сайт → /fb, адрес 2A, часы
+      13:00–01:00, кнопка Rezervă → /fb#rezerva. Потом: своё Business portfolio
+      → ad account RON/Bucharest
 - [x] Шаг 5.1: юрлицо — **BUCHARESTCLOUDS S.R.L., CUI 49299704, J2023024260409**,
       Șos. Pipera 48A, Sector 1 (сверено с ANAF напрямую; занесено в noname_site/docs/CONTENT.md)
 - [x] Шаг 5.2: индекс 077190 — НЕ ошибка: Google сам держит его в карточке NO NAME,
