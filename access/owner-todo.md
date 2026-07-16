@@ -52,10 +52,14 @@
       достаточен для: IG-связки, правок страницы, рекламы из своего кабинета.
       Страница правится (2026-07-16): категория «Cafenea cu narghilele · Lounge ·
       Bar» ✓, ссылка nonamelounge.ro/fb ✓, адрес Ficusului 2A / 077190 ✓.
-      Осталось владельцу: кнопка «Rezervă» → /fb#rezerva (на самой странице:
-      под обложкой ••• → Adaugă buton de acţiune), часы 13:00–01:00 явно,
-      interval de prețuri $$, **IG-связка noname.lounge (блокер кабинета)**.
-      Потом: своё Business portfolio → ad account RON/Bucharest
+      **IG noname.lounge ПРИВЯЗАН к странице ✓ (2026-07-16)**; $$ стоит ✓.
+      Хвосты по странице: кнопка «Rezervă» → /fb#rezerva (••• в строке вкладок →
+      Adaugă buton de acţiune), часы 13:00–01:00 явно.
+      ТЕКУЩИЙ ШАГ: владелец создаёт СВОЁ Business portfolio (business.facebook.com
+      → Creează un portofoliu: «NoName Lounge», raptorgcx@gmail.com). Внутри, под
+      диктовку: ad account (⚠️ RON + Bucharest, необратимо) → запрос доступа
+      портфолио к странице (самоодобрение: у владельца acces deplin) → карта.
+      Учесть: свежий BM = лимиты трат/возможная проверка личности — норма
 - [x] Шаг 5.1: юрлицо — **BUCHARESTCLOUDS S.R.L., CUI 49299704, J2023024260409**,
       Șos. Pipera 48A, Sector 1 (сверено с ANAF напрямую; занесено в noname_site/docs/CONTENT.md)
 - [x] Шаг 5.2: индекс 077190 — НЕ ошибка: Google сам держит его в карточке NO NAME,
